@@ -1,0 +1,176 @@
+Agarwal, S. and Collins, M. (2010). Maximum Margin Ranking Algorithms for
+     Information Retrieval. In Proceedings of the 32nd European Conference on
+     Information Retrieval Research (ECIR), pages 332{343.
+
+Alejo, O., Fern´andez-Luna,J. M., Huete, J. F., and P´erez-V´azquez,R. (2010).
+     Direct Optimization of Evaluation Measures in Learning to Rank Using
+     Particle Swarm. In Proceedings of the Workshop on Database and Expert
+     Systems Applications (DEXA), pages 42{46.
+
+ Bian, J. (2010). Contextualized Web Search: Query-dependent Ranking and
+     Social Media Search. PhD thesis, Georgia Institute of Technology.
+
+ Bian, J., Li, X., Li, F., Zheng, Z., and Zha, H. (2010). Ranking Specialization for
+     Web Search: A Divide-and-conquer Approach by Using Topical RankSVM.
+     In Proceedings of the 19th International Conference on World Wide Web.
+(мб верхнее взято отсуда)
+
+Bidoki, A. M. Z. and Thom, J. (2009). Combination of Documents Features
+     Based on Simulated Click-through Data. In Proceedings of the 31st Euro-
+     pean Conference on Information Retrieval Research (ECIR), volume 5478,
+     pages 538{545.
+(надо попробывать найти)
+
+Buﬀoni, D., Gallinari, P., Usunier, N., and Calauz`enes,C. (2011). Learning
+     scoring functions with order-preserving losses and standardized supervision.
+     In Proceedings of the 28th International Conference on Machine Learning
+     (ICML), pages 825{832.
+(мб тут про регрессию)
+
+Carvalho, V. R., Elsas, J. L., Cohen, W. W., and Carbonell, J. G. (2008).
+     Suppressing Outliers in Pairwise Preference Ranking. In Proceedings of
+     the 17th ACM  Conference on Information and Knowledge Management
+     (CIKM), pages 1487{1488.
+(ranksvm)
+
+Chakrabarti, S., Khanna, R., Sawant, U., and Bhattacharyya, C. (2008). Struc-
+     tured Learning for Non-smooth Ranking Losses.  In Proceedings of the
+     14th ACM SIGKDD International Conference on Knowledge Discovery and
+     Data Mining (KDD), pages 88{96.
+(про svm)
+
+Chang, X. and Zheng, Q. (2009). Preference Learning to Rank with Sparse
+     Bayesian. In Proceedings of the IEEE/WIC/ACM International Joint Con-
+     ference on Web Intelligence and Intelligent Agent Technology (WI-IAT) -
+     Volume III, pages 143{146.
+(ranksvm)
+
+Chapelle, O. and Chang, Y. (2011).   Yahoo!  Learning to Rank Challenge
+     Overview. Journal of Machine Learning Research-Proceedings Track, 14:1{
+     24.
+
+Dammak, F., Kammoun, H., and Ben Hamadou, A. (2011). An Extension of
+     RankBoost for semi-supervised Learning of Ranking Functions. In Proceed-
+     ings of the Fifth International Conference on Mobile Ubiquitous Computing,
+     Systems, Services and Technologies (UBICOMM, pages 49{54.
+
+https://openaccess.thecvf.com/content_iccv_2015/papers/Fernando_Learning_to_Rank_ICCV_2015_paper.pdf
+
+Dubey, A., Machchhar, J., Bhattacharyya, C., and Chakrabarti, S. (2009). Con-
+     ditional Models for Non-smooth Ranking Loss Functions. In Proceedings of
+     the Ninth IEEE International Conference on Data Mining (ICDM), pages
+     129{138.
+
+Geng, B., Yang, Y., Xu, C., and Hua, X. S. (2012). Ranking Model Adaptation
+     for Domain-Speciﬁc Search. 24(4):745{758.
+
+Geng, X., Qin, T., Liu, T. Y., Cheng, X. Q., and Li, H. (2011). Selecting optimal
+     training data for learning to rank. Information Processing & Management,
+     47(5):730{741.
+
+Hoi, S. C. H. and Jin, R. (2008). Semi-supervised Ensemble Ranking. In Pro-
+     ceedings of the 23rd National Conference on Artiﬁcial Intelligence - Volume
+     2, pages 634{639.
+
+Huang, J. C. and Frey, B. J. (2008). Structured ranking learning using cumula-
+     tive distribution networks. In Advances in Neural Information Processing
+     Systems (NIPS), pages 697{704.
+
+Karimzadehgan, M., Li, W., Zhang, R., and Mao, J. (2011).   A  stochastic
+     learning-to-rank algorithm and its application to contextual advertising. In
+     Proceedings of the 20th International conference on World Wide web, pages
+     377{386.
+
+Kuo, J. W., Cheng, P. J., and Wang, H. M. (2009). Learning to Rank from
+     Bayesian Decision Inference. In Proceedings of the 18th ACM Conference
+     on Information and Knowledge Management (CIKM), pages 827{836.
+
+Li, D., Wang, Y., Ni, W., Huang, Y., and Xie, M. (2008). An Ensemble Ap-
+     proach to Learning to Rank. In Proceedings of the Fifth International Con-
+     ference on Fuzzy Systems and Knowledge Discovery (FSKD), volume 2,
+     pages 101{105.
+
+Lin, H. Y., Yu, C. H., and Chen, H. H. (2011a). Query-Dependent Rank Aggre-
+     gation with Local Models. In Proceedings of the Seventh Asia Information
+     Retrieval Societies Conference (AIRS), volume 7097, pages 1{12.
+(надо найти)
+
+Liu, T. Y., Xu, J., Qin, T., Xiong, W., and Li, H. (2007). LETOR: Benchmark
+     dataset for research on learning to rank for information retrieval. In Pro-
+     ceedings of the SIGIR 2007 workshop on learning to rank for information
+     retrieval, pages 3{10.
+
+https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2858c69e5d9432c8b9529e3d97017d3909eb0b9c
+
+https://www.cs.jhu.edu/~kevinduh/papers/duh11csl-preprint.pdf (хз что это)
+
+Ni, W., Huang, Y., and Xie, M. (2008). A   Query Dependent Approach to
+     Learning to Rank for Information Retrieval. In Proceedings of the 2008
+     The Ninth International Conference on Web-Age Information Management
+     (WAIM), pages 262{269.
+
+Peng, J., Macdonald, C., and Ounis, I. (2010a). Learning to Select a Ranking
+     Function. In Proceedings of the 32nd European Conference on Information
+     Retrieval Research (ECIR), pages 114{126, Berlin, Heidelberg.
+
+Petterson, J., Yu, J., Mcauley, J. J., and Caetano, T. S. (2009). Exponential
+     Family Graph Matching and Ranking. In Advances in Neural Information
+     Processing Systems (NIPS), pages 1455{1463.
+
+Qin, T., Liu, T., Xu, J., and Li, H. (2010b). LETOR: A benchmark collec-
+     tion for research on learning to rank for information retrieval. Information
+     Retrieval, 13(4):346{374.
+
+Qin, T., Liu, T. Y., Zhang, X. D., Wang, D. S., Xiong, W. Y., and Li, H.
+     (2008b). Learning to Rank Relational Objects and Its Application to Web
+     Search. In Proceedings of the 17th International Conference on World Wide
+     Web, pages 407{416.
+
+Song, Y., Ng, W., Leung, K. W. T., and Fang, Q. (2014). SFP-Rank: signiﬁcant
+     frequent pattern analysis for eﬀective ranking. Knowledge and Information
+     Systems, pages 1{25.
+
+Sun, H., Huang, J., and Feng, B. (2011). QoRank: A query-dependent ranking
+     model using LSE-based weighted multiple hyperplanes aggregation for in-
+     formation retrieval. International Journal of Intelligent Systems, 26(1):73{
+     97.
+
+Swersky, K., Tarlow, D., Adams, R., Zemel, R., and Frey, B. (2012). Proba-
+     bilistic n-Choose-k Models for Classiﬁcation and Ranking. In Advances in
+     Neural Information Processing Systems (NIPS), pages 3059{3067.
+
+Thuy, N. T. T., Vien, N. A., Viet, N. H., and Chung, T. C. (2009). Probabilistic
+     Ranking Support Vector Machine. In Proceedings of the Sixth International
+     Symposium on Neural Networks, volume 5552, pages 345{353.
+
+Tran, T. T. and Pham, D. S. (2012). ConeRANK: Ranking as Learning Gener-
+     alized Inequalities. arXiv preprint arXiv:1206.4110.
+
+Wang, B., Tang, J., Fan, W., Chen, S., Yang, Z., and Liu, Y. (2009a). Hetero-
+     geneous Cross Domain Ranking in Latent Space. In Proceedings of the 18th
+     ACM  Conference on Information and Knowledge Management (CIKM),
+     pages 987{996.
+
+Wang, F. and Xu, X. (2010). AdaGP-Rank: Applying boosting technique to
+     genetic programming for learning to rank. In Proceedings of the IEEE Youth
+     Conference on Information Computing and Telecommunications (YC-ICT),
+     pages 259{262.
+
+Wang, Y., Kuai, Y. H., Huang, Y. L., Li, D., and Ni, W. J. (2008). Uncertainty-
+     based active ranking for document retrieval. In Proceedings of the Interna-
+     tional Conference on Machine Learning and Cybernetics, volume 5, pages
+     2629{2634.
+
+Yu, C.-N. J. and Joachims, T. (2009). Learning Structural SVMs with Latent
+     Variables. In Proceedings of the 26th Annual International Conference on
+     Machine Learning (ICML), pages 1169{1176, New York, NY, USA.
+
+Zhou, D., Ding, Y., You, Q., and Xiao, M. (2011). Learning to Rank Documents
+     Using Similarity Information Between Objects. In Proceedings of the 18th
+     International Conference on Neural Information Processing (ICONIP) -
+     Volume Part II, pages 374{381.
+     (найти)
+
+Zhu, C., Chen, W., Zhu, Z. A., Wang, G., Wang, D., and Chen, Z. (2009). A
+     General Magnitude-preserving Boosting Algorithm for Search Ranking. In Proceedings of the 18th ACM Conference on Information and Knowledge
+     Management (CIKM), pages 817{826.

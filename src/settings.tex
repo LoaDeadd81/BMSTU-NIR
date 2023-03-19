@@ -106,14 +106,9 @@
 \renewcommand\@biblabel[1]{#1.}
 \makeatother
 
-\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-
-\usepackage{graphicx}
 \usepackage{pdfpages}
 \usepackage{multirow}
 \usepackage{makecell}
-\usepackage{longtable}
 \usepackage{dcolumn}
-\usepackage{array}       
-\usepackage{tabularx}
-\usepackage{dcolumn} 
+
+\newcolumntype{d}[1]{D{,}{,}{#1}}

@@ -3,7 +3,13 @@
 \renewcommand\bibname{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}
 \begin{thebibliography}{}
 
-\bibitem{google} Google Search Statistics [Электронный ресурс]. --- URL: \url{https://www.internetlivestats.com/google-search-statistics/} (дата обращения: 24.02.2023)
+\setlength\bibindent{1.25cm}
+\makeatletter
+\let\old@biblabel\@biblabel
+\def\@biblabel#1{\kern\bibindent\old@biblabel{#1}}
+\makeatother
+
+\bibitem{google} Google Search Statistics [Электронный ресурс]. --- URL: \url{https://www.internetlivestats.com/google-search-statistics/} (дата обращения: 24.02.2023).
 
 \bibitem{ML_no_wors} Бурков А. Машинное обучение без лишних слов / А. Бурков. --- СПб.: Питер. --- 2020. --- 192 с.
 
@@ -20,10 +26,6 @@ P. 97--102.
 
 \bibitem{ListNet} Z. Cao Learning to rank: From pairwise approach to listwise approach / Z. Cao, T. Qin,T.-Y. Liu et al. // Proceedings of the 24th International Conference on Machine Learning. --- 2007. --- P. 129--136.
 
-\bibitem{metrics} Беляков А.В Метрики качества в задачах ранжирования информации / Беляков А.В // Информационные технологии, межвузовский сборник научных трудов. --- Рязань: Рязанский государственный радиотехнический университет имени В.Ф. Уткина. --- 2019. --- C. 36--39.
-
-\bibitem{cmp} Niek Tax A Cross-Benchmark Comparison of 87 Learning to Rank Methods / Niek Tax, Sander Bockting, Djoerd Hiemstra // Information Processing and Management. ---2015. --- P. 757--772.
-
 \bibitem{LETOR3} Tao Qin LETOR: A Benchmark Collection for Research on
 Learning to Rank for Information Retrieval / Tao Qin, Tie-Yan Liu, Jun Xu et el. // Information Retrieval. --- 2010. --- P. 346--374.
 
@@ -36,6 +38,8 @@ Learning to Rank for Information Retrieval / Tao Qin, Tie-Yan Liu, Jun Xu et el.
 \bibitem{MSLR} Microsoft Learning to Rank Datasets [Электронный ресурс]. --- URL: \url{https://www.microsoft.com/en-us/research/project/mslr/} (дата обращения: 05.03.2023)
 
 \bibitem{istella} LETOR Dataset [Электронный ресурс]. --- URL: \url{https://istella.ai/data/letor-dataset/} (дата обращения: 05.03.2023)
+
+\bibitem{metrics} Беляков А.В Метрики качества в задачах ранжирования информации / Беляков А.В // Информационные технологии, межвузовский сборник научных трудов. --- Рязань: Рязанский государственный радиотехнический университет имени В.Ф. Уткина. --- 2019. --- C. 36--39.
 
 \bibitem{LRM2} Chieh-Jen Wang Automatic Construction of An Evaluation Dataset from Wisdom of the Crowds for Information Retrieval Applications / Chieh--Jen Wang, Hung-Sheng Huang, Hsin-Hsi Chen // 2012 IEEE International Conference on Systems. – 2012. --- P. 490--495.
 
@@ -50,6 +54,8 @@ Learning to Rank for Information Retrieval / Tao Qin, Tie-Yan Liu, Jun Xu et el.
 \bibitem{LDRM2} Ming Tan Direct Optimization of Ranking Measures for Learning to Rank Models / Ming Tan, Tian Xia, Lily Guo et al. // Proceedings of the 19th ACM SIGKDD international conference on Knowledge discovery and data mining. – 2013. --- P. 856--864.
 
 \bibitem{LNM1} Hai-Tao Yu PT-Ranking: A Benchmarking Platform for Neural Learning-to-Rank / Ming Tan, Tian Xia, Lily Guo et al. // arXiv preprint arXiv:2008.13368. – 2020. --- P. 856--864.
+
+\bibitem{cmp} Niek Tax A Cross-Benchmark Comparison of 87 Learning to Rank Methods / Niek Tax, Sander Bockting, Djoerd Hiemstra // Information Processing and Management. ---2015. --- P. 757--772.
 
 \end{thebibliography}
 
